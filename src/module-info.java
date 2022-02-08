@@ -1,0 +1,2 @@
+module ass2 {
+}
