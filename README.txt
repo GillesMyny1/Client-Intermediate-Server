@@ -1,14 +1,4 @@
-Author: Gilles Myny - 101145477
-
----------------------------------------
-Reasoning behind file names:
-- Client is named as such because it represents the client algorithm.
-  It deals with creating read, write, and invalid requests and receiving from server based on request type.
-- Chef is named as such because the class represents the intermediate host between client and server.
-- Agent is named as such because the class represents the server algorithm.
-  It deals with receiving read, write, and invalid requests and responding if valid request is obtained.
-
----------------------------------------
+--------------------------------------
 Opening the assignment code in Eclipse:
 1. Open Eclipse IDE
 2. Navigate to File -> Open Projects from File System
